@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AWS on Oliver Naaris</title>
+    <link>https://olivernaaris.github.io/tags/aws/</link>
+    <description>Recent content in AWS on Oliver Naaris</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Oct 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://olivernaaris.github.io/tags/aws/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Learning&#39;s from building an environment management tool with terraform</title>
+      <link>https://olivernaaris.github.io/publications/tallinn_devops_grabcad_meetup_learnings_from_building_an_environment_management_tool_with_terraform/</link>
+      <pubDate>Wed, 26 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://olivernaaris.github.io/publications/tallinn_devops_grabcad_meetup_learnings_from_building_an_environment_management_tool_with_terraform/</guid>
+      <description>How we manage infrastructure in GrabCAD with Chef, Ruby and Terraform. Unfortunately the talk was not recorded.</description>
+    </item>
+    
+  </channel>
+</rss>

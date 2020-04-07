@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure on Oliver Naaris</title>
+    <link>https://olivernaaris.github.io/tags/azure/</link>
+    <description>Recent content in Azure on Oliver Naaris</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://olivernaaris.github.io/tags/azure/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lots of VM&#39;s at GrabCAD</title>
+      <link>https://olivernaaris.github.io/publications/tallinn_devops_grabcad_meetup_lots_of_vms/</link>
+      <pubDate>Wed, 09 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://olivernaaris.github.io/publications/tallinn_devops_grabcad_meetup_lots_of_vms/</guid>
+      <description>The talk is about how we built a tailor made solution for GrabCAD Print Desktop app testing.
+ We needed some way to test the GrabCAD Print desktop application on different Windows desktop versions with different settings (e.g. different region settings). Tests need to be run automatically and on clean virtual machines every time. Test results need to be collected and visualized.  </description>
+    </item>
+    
+  </channel>
+</rss>
