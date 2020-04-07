@@ -1,2 +1,3 @@
-# olivernaaris.github.io
-Personal resume site
+https://olivernaaris.github.io/
+
+Personal website
