@@ -1,3 +1,3 @@
-https://olivernaaris.github.io/
+https://olivernaaris.dev/
 
 Personal website
