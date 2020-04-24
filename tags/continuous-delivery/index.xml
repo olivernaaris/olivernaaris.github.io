@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Continuous Delivery on Oliver Naaris</title>
-    <link>https://olivernaaris.github.io/tags/continuous-delivery/</link>
+    <link>https://olivernaaris.dev/tags/continuous-delivery/</link>
     <description>Recent content in Continuous Delivery on Oliver Naaris</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 09 May 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://olivernaaris.github.io/tags/continuous-delivery/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://olivernaaris.dev/tags/continuous-delivery/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Lots of VM&#39;s at GrabCAD</title>
-      <link>https://olivernaaris.github.io/publications/tallinn_devops_grabcad_meetup_lots_of_vms/</link>
+      <link>https://olivernaaris.dev/publications/tallinn_devops_grabcad_meetup_lots_of_vms/</link>
       <pubDate>Wed, 09 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://olivernaaris.github.io/publications/tallinn_devops_grabcad_meetup_lots_of_vms/</guid>
+      <guid>https://olivernaaris.dev/publications/tallinn_devops_grabcad_meetup_lots_of_vms/</guid>
       <description>The talk is about how we built a tailor made solution for GrabCAD Print Desktop app testing.
  We needed some way to test the GrabCAD Print desktop application on different Windows desktop versions with different settings (e.g. different region settings). Tests need to be run automatically and on clean virtual machines every time. Test results need to be collected and visualized.  </description>
     </item>
