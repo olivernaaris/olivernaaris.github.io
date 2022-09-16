@@ -1,107 +1,69 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://olivernaaris.dev/publications/</loc>
     <lastmod>2020-04-02T17:14:03+08:00</lastmod>
     <priority>0.6</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://olivernaaris.dev/projects/creations/</loc>
     <lastmod>2020-04-02T17:14:03+08:00</lastmod>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://olivernaaris.dev/projects/contributions/</loc>
     <lastmod>2020-04-02T17:14:03+08:00</lastmod>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://olivernaaris.dev/publications/tallinn_devops_grabcad_meetup_lots_of_vms/</loc>
     <lastmod>2020-04-02T17:14:03+08:00</lastmod>
     <priority>0.8</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://olivernaaris.dev/publications/tallinn_devops_grabcad_meetup_learnings_from_building_an_environment_management_tool_with_terraform/</loc>
     <lastmod>2021-01-21T18:09:17+02:00</lastmod>
     <priority>0.8</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://olivernaaris.dev/tags/azure/</loc>
     <lastmod>2020-04-02T17:14:03+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://olivernaaris.dev/tags/chef/</loc>
     <lastmod>2021-01-21T18:09:17+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://olivernaaris.dev/tags/continuous-delivery/</loc>
     <lastmod>2020-04-02T17:14:03+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://olivernaaris.dev/tags/continuous-integration/</loc>
     <lastmod>2020-04-02T17:14:03+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://olivernaaris.dev/tags/devops/</loc>
     <lastmod>2021-01-21T18:09:17+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://olivernaaris.dev/tags/ruby/</loc>
     <lastmod>2021-01-21T18:09:17+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://olivernaaris.dev/tags/</loc>
     <lastmod>2021-01-21T18:09:17+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://olivernaaris.dev/tags/terraform/</loc>
     <lastmod>2021-01-21T18:09:17+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://olivernaaris.dev/tags/windows-desktop-apps/</loc>
     <lastmod>2020-04-02T17:14:03+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://olivernaaris.dev/</loc>
-    <lastmod>2021-01-21T17:55:13+02:00</lastmod>
+    <lastmod>2021-03-31T21:33:18+03:00</lastmod>
     <priority>1</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://olivernaaris.dev/tags/aws/</loc>
     <lastmod>2021-01-21T18:09:17+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://olivernaaris.dev/tags/ci/cd-pipelines/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://olivernaaris.dev/projects/</loc>
     <lastmod>2020-04-02T17:14:03+08:00</lastmod>
     <priority>0.9</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://olivernaaris.dev/search/</loc>
     <lastmod>2020-04-01T15:00:29+08:00</lastmod>
     <priority>0.1</priority>
   </url>
-  
 </urlset>
